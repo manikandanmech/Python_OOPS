@@ -31,6 +31,6 @@ class shooter_biriyani(Food):
         print("Website  : ", self.webiste)
 
 
-mobile = shooter_biriyani()
-mobile.product_details()
-mobile.contact_details()
+shop = shooter_biriyani()
+shop.product_details()
+shop.contact_details()
